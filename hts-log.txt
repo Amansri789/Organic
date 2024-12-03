@@ -1,0 +1,42 @@
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+19:05:22	Warning: 	Moved Permanently for https://www.energeticthemes.com/robots.txt
+
+19:05:22	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.energeticthemes.com/robots.txt and https://energeticthemes.com/robots.txt
+
+19:05:22	Warning: 	Warning moved treated for https://www.energeticthemes.com/robots.txt (real one is https://energeticthemes.com/robots.txt)
+
+19:08:15	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b1-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/index.html)
+
+19:08:15	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b2-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/index.html)
+
+19:08:15	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b3-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/index.html)
+
+19:08:15	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/single-post.jpg (from https://www.energeticthemes.com/templates/oganic/assets/css/style.css)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b4-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b5-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b6-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b7-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b8-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+19:08:16	Error: 	"Not Found" (404) at link https://energeticthemes.com/templates/oganic/assets/images/blog/b9-lqip.jpg (from https://www.energeticthemes.com/templates/oganic/blog.html)
+
+
+
+
+
