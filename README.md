@@ -1,6 +1,3 @@
-Sure! Here’s your **README.md** content for GitHub, following the same structured format:  
-
----
 
 # Organic Farming: A Sustainable Approach  
 
